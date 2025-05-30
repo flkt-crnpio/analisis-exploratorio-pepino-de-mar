@@ -7,13 +7,20 @@
 ## uso
 
 si ya lo tenias corriendo y nada mas pasaste a ver otra vez como dice que se 
-levanta, solo necesitas iniciar el entorno virtual y levantar el notebook con 
+levanta, solo necesitas iniciar el entorno virtual y levantar el notebook escribiendo en la terminal: 
 
 ```sh
 source env/bin/activate
 
 jupyter notebook
 ```
+
+para apagar jupyter server con la terminal abierta presionar `control` + `c` y después escribir
+
+```sh
+dectivate
+```
+
 
 si es la primera vez que utilizas este repositorio, sigue las instrucciones.
 
